@@ -1,0 +1,13 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "This document outlines the standard protocol for reporting issues discovered during manual testing of the EduManage application. Following these guidelines ensures that developers receive all necessary information to efficiently reproduce and resolve issues.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy" : "git add . && git commit -m \"%npm_config_message%\" && git push"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
