@@ -1,7 +1,7 @@
 {
   "name": "test",
   "version": "1.0.0",
-  "description": "This document outlines the standard protocol for reporting issues discovered during manual testing of the EduManage application. Following these guidelines ensures that developers receive all necessary information to efficiently reproduce and resolve issues.",
+  "description": "This document outlines the standard protocol for reporting issues discovered during manual testing of the Next Web Campus application. Following these guidelines ensures that developers receive all necessary information to efficiently reproduce and resolve issues.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

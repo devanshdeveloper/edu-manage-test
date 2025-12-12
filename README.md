@@ -1,7 +1,7 @@
 # Manual Testing Issue Reporting Protocol
 
 ## Overview
-This document outlines the standard protocol for reporting issues discovered during manual testing of the EduManage application. Following these guidelines ensures that developers receive all necessary information to efficiently reproduce and resolve issues.
+This document outlines the standard protocol for reporting issues discovered during manual testing of the Next Web Campus application. Following these guidelines ensures that developers receive all necessary information to efficiently reproduce and resolve issues.
 
 ## Issue Template
 
